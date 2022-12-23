@@ -1,2 +1,3 @@
 hello im harika
 im updating my file
+adding file in master
